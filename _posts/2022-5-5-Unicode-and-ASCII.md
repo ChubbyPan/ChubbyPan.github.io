@@ -1,5 +1,3 @@
-# 编程常识 - Unicode and ASCII编码
-
 ### **WHY**
 
 为什么需要编码? 
